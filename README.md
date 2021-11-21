@@ -1,3 +1,8 @@
+<div align="center">
+     <img src="https://github.com/FernandoGuirraS/FernandoGuirraS/blob/main/Fernando%20Guirra%20Silva.pdf" witdh=700px/>
+</div>
+
+![Guirra Datatec](https://github.com/FernandoGuirraS/FernandoGuirraS/blob/main/Fernando%20Guirra%20Silva.pdf)
 - 👋 Hi, I’m @FernandoGuirraS
 - 📚 I have a degree in industrial mathematics, where the final subject of study was to describe, through finite differences, the Black-Scholes Model for Options Market.
 - 👀 I’m interested in knowledge of Artificial Inteligence in areas as Data Science, Machine Learning.
