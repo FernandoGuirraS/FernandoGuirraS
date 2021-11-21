@@ -1,3 +1,5 @@
+![Guirra Datatec](https://drive.google.com/file/d/1hTmH54MZkxx7sZTjkw3ut7CWK3d0CRtq/view?usp=sharing)
+
 - 👋 Hi, I’m @FernandoGuirraS
 - 📚 I have a degree in industrial mathematics, where the final subject of study was to describe, through finite differences, the Black-Scholes Model for Options Market.
 - 👀 I’m interested in knowledge of Artificial Inteligence in areas as Data Science, Machine Learning.
