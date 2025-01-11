@@ -9,7 +9,7 @@
 - 👀 I’m interested in knowledge of Artificial Inteligence in areas as Data Science, Machine Learning.
 - 🌱 I’m currently learning programming languages, data visualization.
 - 💞️ I’m looking to collaborate on on data science projects and investment projects.
-- 📫 How to reach me: fernandogacademico@gmail.com
+- 📫 How to reach me: fernando.guirra@hotmail.com
 
 ## Principais Linguagens de Programação
 
